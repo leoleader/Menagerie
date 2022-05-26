@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dylan McCann</title>
-    <link>https://leoleader.githup.io/Dylan_Website/tags/</link>
+    <link>https://leoleader.github.io/Dylan_Website/tags/</link>
     <description>Recent content in Tags on Dylan McCann</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 May 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://leoleader.githup.io/Dylan_Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/Dylan_Website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>art</title>
-      <link>https://leoleader.githup.io/Dylan_Website/tags/art/</link>
+      <link>https://leoleader.github.io/Dylan_Website/tags/art/</link>
       <pubDate>Sun, 22 May 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://leoleader.githup.io/Dylan_Website/tags/art/</guid>
+      <guid>https://leoleader.github.io/Dylan_Website/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cs</title>
-      <link>https://leoleader.githup.io/Dylan_Website/tags/cs/</link>
+      <link>https://leoleader.github.io/Dylan_Website/tags/cs/</link>
       <pubDate>Sat, 21 May 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://leoleader.githup.io/Dylan_Website/tags/cs/</guid>
+      <guid>https://leoleader.github.io/Dylan_Website/tags/cs/</guid>
       <description></description>
     </item>
     
