@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Menagerie</title>
+    <title>Categories on menagerie</title>
     <link>https://leoleader.github.io/menagerie/categories/</link>
-    <description>Recent content in Categories on Menagerie</description>
+    <description>Recent content in Categories on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://leoleader.github.io/menagerie/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

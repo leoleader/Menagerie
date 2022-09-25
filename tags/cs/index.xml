@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cs on Menagerie</title>
+    <title>cs on menagerie</title>
     <link>https://leoleader.github.io/menagerie/tags/cs/</link>
-    <description>Recent content in cs on Menagerie</description>
+    <description>Recent content in cs on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/tags/cs/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Sat, 21 May 2022 10:58:08 -0400</pubDate>
       
       <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
-      <description>Insert description of project here</description>
+      <description>So I have an idea for a pretty cool Visual Novel Game but in order to make it I need to get better with C# and Unity so first I am programming a simple Dungeon Scroller, rogue-like game using some free assets. You can check out the development and how it&amp;rsquo;s going at my Github, https://github.com/leoleader</description>
     </item>
     
   </channel>

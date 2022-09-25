@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Menagerie</title>
+    <title>Projects on menagerie</title>
     <link>https://leoleader.github.io/menagerie/projects/</link>
-    <description>Recent content in Projects on Menagerie</description>
+    <description>Recent content in Projects on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 May 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,17 @@
       <pubDate>Sat, 21 May 2022 10:58:08 -0400</pubDate>
       
       <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
-      <description>Insert description of project here</description>
+      <description>So I have an idea for a pretty cool Visual Novel Game but in order to make it I need to get better with C# and Unity so first I am programming a simple Dungeon Scroller, rogue-like game using some free assets. You can check out the development and how it&amp;rsquo;s going at my Github, https://github.com/leoleader</description>
+    </item>
+    
+    <item>
+      <title>Writing - Poems</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-3/</link>
+      <pubDate>Sat, 21 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-3/</guid>
+      <description>These are some of my favorite poems I have written over the years, the first one winning a Scholastic Writing Award which was quite exciting. I like to write in my free time and have dozens of different poems and hope that as time goes on I write many more.
+~ Reality ~  ~ Fool&#39;s Love Song ~  ~ The Beast Comes Home ~</description>
     </item>
     
   </channel>

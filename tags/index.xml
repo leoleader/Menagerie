@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Menagerie</title>
+    <title>Tags on menagerie</title>
     <link>https://leoleader.github.io/menagerie/tags/</link>
-    <description>Recent content in Tags on Menagerie</description>
+    <description>Recent content in Tags on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 May 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/tags/index.xml" rel="self" type="application/rss+xml" />

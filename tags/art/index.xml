@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>art on Menagerie</title>
+    <title>art on menagerie</title>
     <link>https://leoleader.github.io/menagerie/tags/art/</link>
-    <description>Recent content in art on Menagerie</description>
+    <description>Recent content in art on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 May 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/tags/art/index.xml" rel="self" type="application/rss+xml" />
@@ -15,6 +15,16 @@
       <guid>https://leoleader.github.io/menagerie/projects/project-2/</guid>
       <description>This is where I will put my really cool three instrument cover of a beautiful anime song ONCE I FINALLY finish it :)
   This is the original song, a beautiful, melancholic piece consisting of a violin and a piano.</description>
+    </item>
+    
+    <item>
+      <title>Writing - Poems</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-3/</link>
+      <pubDate>Sat, 21 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-3/</guid>
+      <description>These are some of my favorite poems I have written over the years, the first one winning a Scholastic Writing Award which was quite exciting. I like to write in my free time and have dozens of different poems and hope that as time goes on I write many more.
+~ Reality ~  ~ Fool&#39;s Love Song ~  ~ The Beast Comes Home ~</description>
     </item>
     
   </channel>
