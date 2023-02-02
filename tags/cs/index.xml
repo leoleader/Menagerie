@@ -6,14 +6,33 @@
     <description>Recent content in cs on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/tags/cs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Programming - Visual Novel Game</title>
+      <title>Sherry&#39;s Quizzes</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-4/</link>
+      <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-4/</guid>
+      <description>This is a web app, built with Python and the Django framework, using HTML/CSS and Bootstrap for the front end. My friends and I love taking quizzes and asking each other questions to either get to know each other better or challenge each other&amp;rsquo;s knowledge of various topics, so I decided to make a web app so we would a place to make whatever quizzes we wanted and send them to each other.</description>
+    </item>
+    
+    <item>
+      <title>Super Smash Bros. Ultimate Tournament Simulator</title>
       <link>https://leoleader.github.io/menagerie/projects/project-1/</link>
-      <pubDate>Sat, 21 May 2022 10:58:08 -0400</pubDate>
+      <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
       
       <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
-      <description>So I have an idea for a pretty cool Visual Novel Game but in order to make it I need to get better with C# and Unity so first I am programming a simple Dungeon Scroller, rogue-like game using some free assets. You can check out the development and how it&amp;rsquo;s going at my Github, https://github.com/leoleader</description>
+      <description>My latest project that I started developing over last Winter Break is an app that uses a database of tournamnet results for Smash Ultimate pro players to simulate games between them. Using a combination, of player head-to-head history, player winrate, how highly ranked the characte they play is in the meta, character matchup charts, the program tries to predict who would win between two players. So using this algorithm, users of the app will be able to make tournament brackets as big as top 16s with professional players and the program will simulate the bracket.</description>
+    </item>
+    
+    <item>
+      <title>Learning OOD with Java</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-5/</link>
+      <pubDate>Wed, 28 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-5/</guid>
+      <description>So far in my journey with CS at Northeastern, I have completed a few different projects, a couple being interesting enough that I would like to highlight them here and briefly discuss them.
+The first project I will be talking about is the Marble Solitaire project. For those that don&amp;rsquo;t know, marble solitaire is a simple board game where you try to hop marbles over each other to eliminate them, the goal is to be left with one marble at the end.</description>
     </item>
     
   </channel>

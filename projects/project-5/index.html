@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Learning OOD with Java | menagerie</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="My School Projects so Far">
+    <meta name="generator" content="Hugo 0.99.1" />
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="https://leoleader.github.io/menagerie/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Learning OOD with Java" />
+<meta property="og:description" content="My School Projects so Far" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://leoleader.github.io/menagerie/projects/project-5/" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2022-12-28T10:58:08-04:00" />
+<meta property="article:modified_time" content="2022-12-28T10:58:08-04:00" /><meta property="og:site_name" content="menagerie" />
+
+<meta itemprop="name" content="Learning OOD with Java">
+<meta itemprop="description" content="My School Projects so Far"><meta itemprop="datePublished" content="2022-12-28T10:58:08-04:00" />
+<meta itemprop="dateModified" content="2022-12-28T10:58:08-04:00" />
+<meta itemprop="wordCount" content="671">
+<meta itemprop="keywords" content="cs," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Learning OOD with Java"/>
+<meta name="twitter:description" content="My School Projects so Far"/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://leoleader.github.io/menagerie/images/beans.jpeg');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://leoleader.github.io/menagerie/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        menagerie
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://leoleader.github.io/menagerie/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://leoleader.github.io/menagerie/projects/" title="Projects page">
+              Projects
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://leoleader.github.io/menagerie/contact/" title="Socials page">
+              Socials
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://leoleader.github.io/menagerie/tutoring/" title="Tutoring page">
+              Tutoring
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Learning OOD with Java</h1>
+          
+            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+              My School Projects so Far
+            </h2>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        PROJECTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Learning OOD with Java</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2022-12-28T10:58:08-04:00">December 28, 2022</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>So far in my journey with CS at Northeastern, I have completed a few different projects, a couple being interesting enough that I would like to highlight them here and briefly discuss them.</p>
+<p>The first project I will be talking about is the Marble Solitaire project. For those that don&rsquo;t know, marble solitaire is a simple board game where you try to hop marbles over each other to eliminate them, the goal is to be left with one marble at the end.
+<img src="https://leoleader.github.io/menagerie/images/marble.png" alt="Marbles"></p>
+<p>Above is a screenshot of the gui for the program after I played a quick game and lost horrifically (despite spending a month or so in class on this project I never bothered to get better at playing it). It&rsquo;s a barebones design, with the score and game over message at the bottom and obviously the board front and center. This was one of the first programs I ever made, and I think the second GUI so just getting a working GUI was the only thing on my mind while making this project.</p>
+<p>This program was the first time I implemented a MVC class structure properly and effectively. I had an abstract class that held the data and methods for a game of marble solitaire, then classes that extended this abstract class for each type of marble solitaire (english, triangle, european). There are two views with their respective classes, a Text View that displays the board and interfaces with the user using the terminal, and a GUI View as seen above, which we used Java Swing to implement. Finally the controller class brings it all together and helps keep the views and models from accessing information that they shouldn&rsquo;t be able to access. This was my first time working with the Java Swing library so it definitely took some time to get used to. This project really made clear to me how important desinging your project with the end product in mind is. As we developed this project, the professors revealed requirements and necessary design changes each couple weeks, and sometimes as I tried to implement these new elements I realized that there were key elements of my base code that I needed to alter or even redesign entirely in order to efficiently integrate the new requirements. Thinking ahead, abstracting, making reusable code, and writing tests before writing code were all big takeaways I had from this project. Here&rsquo;s the <a href="https://github.com/leoleader/marblesolitaire">repository</a> with the code.</p>
+<p>The second project I&rsquo;d like to look at is the Image Processing Program project.
+<img src="https://leoleader.github.io/menagerie/images/leo_before.png" alt="Home Screen"></p>
+<p>Pictured above is the graphical user interface for the program with an image loaded in (say hi to my cat leo). This program allows users to load in an image from their computer and perform a variety of operations on it: brightening, darkening, flipping along with filters for blurring, sharpening, greyscale color transformations, and sepia color transformations. At the bottom is a histogram showing the color values of the image and to the right is the programs messages to the user letting them know if the operations were successful, if there is an error, etc. Once the user is satisfied with their product they simply save it to their computer and exit. The below image was created using this program, specifically the brighten, flip, and sharpen operations.</p>
+<p><img src="https://leoleader.github.io/menagerie/images/leo_after.png" alt="sillycat"></p>
+<p>I found this project really interesting, we started by working with ppm files which are essentially just text files with the RGB values of each pixel, so that we could get a real understanding of what each image operationw was realy doing, and then incorporated the standard image types like png and jpeg. It was really interesting learning about kernels and applying filters and made me interested in learning more about image processing and graphics in the future. Looking back on the project I would have definitely used more efficient data structures for storing pixel information and applying kernels, and would have consolidated my classes for ppm images and file images into one class. Check out the <a href="https://github.com/leoleader/imagesprocess">repository</a> for a look at the code.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="https://leoleader.github.io/menagerie/tags/cs" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">cs</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://leoleader.github.io/menagerie/" >
+    &copy;  menagerie 2023 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>
