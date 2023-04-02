@@ -6,7 +6,17 @@
     <description>Recent content in cs on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 12:42:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Routers, Protocols, Crawlers Oh My!</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-6/</link>
+      <pubDate>Sat, 01 Apr 2023 12:42:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-6/</guid>
+      <description>In this post we will be looking at two of my favorite projects from a class that I have really been enjoying recently, Networks and Distributed Systems!
+The first project we will be looking at is a simplified virtual BGP router. The professors provided us with a simulator and several configs, in which the router we built must be ran against and pass in correctness and performance. Responsibilities of the router included accepting route announcements from simulated peer routers, generating new route announcements for peer routers, managing and compressing forwarding tables, calculating optimal routes, and forwarding data packets that arrive from simulated internet users.</description>
+    </item>
+    
     <item>
       <title>Sherry&#39;s Quizzes</title>
       <link>https://leoleader.github.io/menagerie/projects/project-4/</link>

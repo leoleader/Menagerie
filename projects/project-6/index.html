@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Routers, Protocols, Crawlers Oh My! | menagerie</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="CS 3700: Networks and Distributed Systems">
+    <meta name="generator" content="Hugo 0.99.1" />
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="https://leoleader.github.io/menagerie/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Routers, Protocols, Crawlers Oh My!" />
+<meta property="og:description" content="CS 3700: Networks and Distributed Systems" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://leoleader.github.io/menagerie/projects/project-6/" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2023-04-01T12:42:08-04:00" />
+<meta property="article:modified_time" content="2023-04-01T12:42:08-04:00" /><meta property="og:site_name" content="menagerie" />
+
+<meta itemprop="name" content="Routers, Protocols, Crawlers Oh My!">
+<meta itemprop="description" content="CS 3700: Networks and Distributed Systems"><meta itemprop="datePublished" content="2023-04-01T12:42:08-04:00" />
+<meta itemprop="dateModified" content="2023-04-01T12:42:08-04:00" />
+<meta itemprop="wordCount" content="1093">
+<meta itemprop="keywords" content="cs," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Routers, Protocols, Crawlers Oh My!"/>
+<meta name="twitter:description" content="CS 3700: Networks and Distributed Systems"/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  
+  
+  <header class="cover bg-top" style="background-image: url('https://leoleader.github.io/menagerie/images/int_map.jpg');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://leoleader.github.io/menagerie/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        menagerie
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://leoleader.github.io/menagerie/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://leoleader.github.io/menagerie/projects/" title="Projects page">
+              Projects
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://leoleader.github.io/menagerie/contact/" title="Socials page">
+              Socials
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://leoleader.github.io/menagerie/tutoring/" title="Tutoring page">
+              Tutoring
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Routers, Protocols, Crawlers Oh My!</h1>
+          
+            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+              CS 3700: Networks and Distributed Systems
+            </h2>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        PROJECTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Routers, Protocols, Crawlers Oh My!</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2023-04-01T12:42:08-04:00">April 1, 2023</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>In this post we will be looking at two of my favorite projects from a class that I have really been enjoying recently, Networks and Distributed Systems!</p>
+<p>The first project we will be looking at is a simplified virtual BGP router. The professors provided us with a simulator and several configs, in which the router we built must be ran against and pass in correctness and performance. Responsibilities of the router included accepting route announcements from simulated peer routers, generating new route announcements for peer routers, managing and compressing forwarding tables, calculating optimal routes, and forwarding data packets that arrive from simulated internet users. A big part of the project was properly aggregating the forwarding table entries as to optimize performance.</p>
+<p>Now this project would be much easier with the usage of libraries and modules that deal with ip addresses like Python&rsquo;s ipaddress module, however the usage of libraries was severely limited, meaning that we had to program methods to manipulate ip addresses from scratch. This project gave me a lot of hands on experience working with and significantly strengthened by understanding of ip addresses, subnets, network masks, CIDR notation, and the core infrastructure of the internet as a whole.</p>
+<p>Here is an example of what the output of running one of the configs looks like:
+<img src="https://leoleader.github.io/menagerie/images/router_one.png" alt="Config"></p>
+<p>This is just a snippet of the full output of the program. The program initializes, connects to sockets, sends handshakes, receives and forwards route announcements, sends data, and then dumps it&rsquo;s routing table. Pictured above is the verification of the data message counts at each node and verification that the routing table is correct and properly aggregated.</p>
+<p>Currently the code for this project and the next are in private repositories on my github that I plan on making public once the class is finished.</p>
+<p>The second project that I am highlighting is a web crawler for a fake social media site called Fakebook that the professors created. Fakebook is a barebones site with tens of thousands of user profiles each with varying amounts of friends and different personal information on their profiles. Our goal was to explore user profiles, downloading HTML pages and parsing them until we found five student-specific secet flags.</p>
+<p>Obviously there is no way to know what five pages of the thousands on the site contain these flags, so the crawler would need to crawl potentially all of these pages, meaning that it would have to do so efficiently and quickly. In addition, the crawler needed to implement HTTP/1.1, handle various HTTP status codes, and avoid getting stuck in cycles by keeping track of profiles that had already been explored.</p>
+<p>I started by going into dev tools and studying the GET and POST HTTP requests that were sent as I logged in and explored Fakebook, as pictured below:</p>
+<p><img src="https://leoleader.github.io/menagerie/images/fakebook.png" alt="Fakebook"></p>
+<p>Once I familiarized myself with the headers and structure of HTTP requests and how the site functioned, I started programming. The cralwer first needed to connect with a TCP socket wrapped in TLS, and log in to the site using server, port, username, and password parameters provided in the command line.
+In order to login, the crawler needed to send GET and POST requests to obtain the necessary csrftokens and session ids, and once it succesfully logs in, is free to start exploring the website. I mainly used regex for parsing along with good ol split and used sets for my data structures to easily make sure the crawler never visited the same profile twice.</p>
+<p>Getting the crawler to work was one thing, but optimizing was a whole nother. When I first succesfully ran my crawler, it took nearly 30 minutes, which was just barely fast enough not to timeout during the submission, however was definitely not ideal. To improve the performance I integrated connection keep-alive, chunked encoding, gzip encoding (compressing and decompressing the HTML content), and spruced up the algorithm the crawler used to explore profiles with.
+This was the more challenging half of the project, though my efforts were most certainly not for nothing because the performance time dropped from 30 minutes to a little bit over 1 minute 30 seconds. This project really opened my eyes to how useful web crawlers can be and I am excited to use this experiecne to build my own crawlers in the near future.</p>
+<p><em>A <del>Vent</del> Note from the Blogger:</em></p>
+<p>In my personal experience at Northeastern so far, and from what I have gathered from my fellow huskies, Northeastern is a uniquely taxing university to attend. The combination of a rigorous academic workload and required coop experiences leads to what I have come to describe as a &ldquo;spiritual torture rack&rdquo;.</p>
+<p>Finding time to attend lectures, do assignments, hand in projects on time, study for exams, prepare for techincals, apply for dozens of (I personally have friends with over two hundred) coops, go through round after round of interviews, well it is not exactly easy, and that&rsquo;s not even mentioning things like pursuing personal projects, sleeping, eating, exercising, social life, extracurriculars, and all the lovely little problems life throws your way.</p>
+<p>As of the time I am writing this, only 7% of Khoury College has a coop for Fall 2023, which if you can&rsquo;t tell is not very high. Now do not be mistaken, I am not complaining, in fact I feel having my spirit stretched like this has caused it to develop quite substantially. It has forced me to reevaluate my priorities and come to terms with having to make sacrafices to see things I care about come to fruition.</p>
+<p>Now why is any of this relevant to the contents above ? Well, throughout the duration of this balancing act, CS 3700 has been a class that I have found myself deeply enjoying and devoting time to. Never before have I taken a class that was so interesting and dug so deeply into topics like computer network architecture and the history of the internet and answered so many questions I&rsquo;ve had about tech as a whole. I always look forward to attending lecture (when I have time to) and each of the 6 projects we have done throughout the course of the semester have been absolute delights to figure out and I am always proud of what I produce.</p>
+<p>In a time where it feels I have a million different responsibilities to take care of in a day, for a class to continuously stand out like this is truly unique, thus why I am highlighting two of my favorite projects I&rsquo;ve done for the class so far.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="https://leoleader.github.io/menagerie/tags/cs" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">cs</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="https://leoleader.github.io/menagerie/projects/project-1/">Super Smash Bros. Ultimate Tournament Simulator</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://leoleader.github.io/menagerie/projects/project-4/">Sherry&#39;s Quizzes</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://leoleader.github.io/menagerie/projects/project-5/">Learning OOD with Java</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://leoleader.github.io/menagerie/" >
+    &copy;  menagerie 2023 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

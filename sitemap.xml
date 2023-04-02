@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://leoleader.github.io/menagerie/tags/cs/</loc>
-    <lastmod>2023-02-01T10:58:08-04:00</lastmod>
+    <lastmod>2023-04-01T12:42:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://leoleader.github.io/menagerie/</loc>
-    <lastmod>2023-02-01T10:58:08-04:00</lastmod>
+    <lastmod>2023-04-01T12:42:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://leoleader.github.io/menagerie/projects/project-6/</loc>
+    <lastmod>2023-04-01T12:42:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://leoleader.github.io/menagerie/tags/</loc>
+    <lastmod>2023-04-01T12:42:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,11 +28,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://leoleader.github.io/menagerie/projects/project-1/</loc>
-    <lastmod>2023-02-01T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://leoleader.github.io/menagerie/tags/</loc>
     <lastmod>2023-02-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
