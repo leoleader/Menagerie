@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 22 May 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Argos for NER</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-1/</link>
+      <pubDate>Sun, 01 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
+      <description>This semester I am excited to announce that I will be working as a Software Engineer for the Data Visualization and Analysis Team for Notheastern Electric Racing! We are going to be working on a few different really cool projects to help our engineers access and understand data from the car so that they can better improve it.
+Currently in development is a project called Argos, essentially a telemetry hub that lets users query any and all data from the car&amp;rsquo;s server, then organizes and presents it in a user-friendly series of charts and figures.</description>
+    </item>
+    
+    <item>
       <title>Routers, Protocols, Crawlers Oh My!</title>
       <link>https://leoleader.github.io/menagerie/projects/project-6/</link>
       <pubDate>Sat, 01 Apr 2023 12:42:08 -0400</pubDate>
@@ -27,15 +37,6 @@ The first project we will be looking at is a simplified virtual BGP router. The 
     </item>
     
     <item>
-      <title>Super Smash Bros. Ultimate Tournament Simulator</title>
-      <link>https://leoleader.github.io/menagerie/projects/project-1/</link>
-      <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
-      
-      <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
-      <description>My latest project that I started developing over last Winter Break is an app that uses a database of tournamnet results for Smash Ultimate pro players to simulate games between them. Using a combination, of player head-to-head history, player winrate, how highly ranked the characte they play is in the meta, character matchup charts, the program tries to predict who would win between two players. So using this algorithm, users of the app will be able to make tournament brackets as big as top 16s with professional players and the program will simulate the bracket.</description>
-    </item>
-    
-    <item>
       <title>Learning OOD with Java</title>
       <link>https://leoleader.github.io/menagerie/projects/project-5/</link>
       <pubDate>Wed, 28 Dec 2022 10:58:08 -0400</pubDate>
@@ -43,16 +44,6 @@ The first project we will be looking at is a simplified virtual BGP router. The 
       <guid>https://leoleader.github.io/menagerie/projects/project-5/</guid>
       <description>So far in my journey with CS at Northeastern, I have completed a few different projects, a couple being interesting enough that I would like to highlight them here and briefly discuss them.
 The first project I will be talking about is the Marble Solitaire project. For those that don&amp;rsquo;t know, marble solitaire is a simple board game where you try to hop marbles over each other to eliminate them, the goal is to be left with one marble at the end.</description>
-    </item>
-    
-    <item>
-      <title>Music - Longing to Belong Cover</title>
-      <link>https://leoleader.github.io/menagerie/projects/project-2/</link>
-      <pubDate>Sun, 22 May 2022 11:00:59 -0400</pubDate>
-      
-      <guid>https://leoleader.github.io/menagerie/projects/project-2/</guid>
-      <description>This is where I will put my really cool three instrument cover of a beautiful anime song ONCE I FINALLY finish it :)
-  This is the original song, a beautiful, melancholic piece consisting of a violin and a piano.</description>
     </item>
     
     <item>
