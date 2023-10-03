@@ -18,6 +18,16 @@ Currently in development is a project called Argos, essentially a telemetry hub 
     </item>
     
     <item>
+      <title>Sherry&#39;s Quizzes</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-4/</link>
+      <pubDate>Tue, 01 Aug 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-4/</guid>
+      <description>Sherry&amp;rsquo;s Quizzes is a quiz taking/building web app that I developed, check it out at https://sherrysquizzes-6d15ee4bcb35.herokuapp.com ! Sherry is built in Python with Django as the backend, SQLite database and HTML/CSS as the frontend, hosted on Heroku.
+NOTE: I realized on deployment that Django/Heroku is lowkey lame when it comes to serving static files so currently user uploaded images are not displaying until I set up a custom file storage backend w a CDN.</description>
+    </item>
+    
+    <item>
       <title>Routers, Protocols, Crawlers Oh My!</title>
       <link>https://leoleader.github.io/menagerie/projects/project-6/</link>
       <pubDate>Sat, 01 Apr 2023 12:42:08 -0400</pubDate>
@@ -28,12 +38,14 @@ The first project we will be looking at is a simplified virtual BGP router. The 
     </item>
     
     <item>
-      <title>Sherry&#39;s Quizzes</title>
-      <link>https://leoleader.github.io/menagerie/projects/project-4/</link>
-      <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
+      <title>McCann&#39;s URL Shortener</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-2/</link>
+      <pubDate>Sat, 01 Apr 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://leoleader.github.io/menagerie/projects/project-4/</guid>
-      <description>This is a web app, built with Python and the Django framework, using HTML/CSS and Bootstrap for the front end. My friends and I love taking quizzes and asking each other questions to either get to know each other better or challenge each other&amp;rsquo;s knowledge of various topics, so I decided to make a web app so we would a place to make whatever quizzes we wanted and send them to each other.</description>
+      <guid>https://leoleader.github.io/menagerie/projects/project-2/</guid>
+      <description>McCann&amp;rsquo;s URL Shotener is pretty self-explanatory, Typescript React web app that takes a given long url and shortens it for the user. I built this in a couple days to get experience working with Typesript, React, Express, and testing with Cypress and Jest. I used Chakra UI to use custom fonts, colors, images and other UI stylings.
+Locally home page looks like this: 
+You can check out the repo at https://github.</description>
     </item>
     
     <item>
