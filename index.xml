@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dylan McCann on menagerie</title>
+    <title>menagerie</title>
     <link>https://leoleader.github.io/menagerie/</link>
-    <description>Recent content in Dylan McCann on menagerie</description>
+    <description>Recent content on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 12:42:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argos for NER</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-1/</link>
+      <pubDate>Sun, 01 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
+      <description>This semester I am excited to announce that I will be working as a Software Engineer for the Data Visualization and Analysis Team for Notheastern Electric Racing! We are going to be working on a few different really cool projects to help our engineers access and understand data from the car so that they can better improve it.
+Currently in development is a project called Argos, essentially a telemetry hub that lets users query any and all data from the car&amp;rsquo;s server, then organizes and presents it in a user-friendly series of charts and figures.</description>
+    </item>
+    
+    <item>
+      <title>Sherry&#39;s Quizzes</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-4/</link>
+      <pubDate>Tue, 01 Aug 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-4/</guid>
+      <description>Sherry&amp;rsquo;s Quizzes is a quiz taking/building web app that I developed, check it out at https://sherrysquizzes-6d15ee4bcb35.herokuapp.com ! Sherry is built in Python with Django as the backend, SQLite database and HTML/CSS as the frontend, hosted on Heroku.
+NOTE: I realized on deployment that Django/Heroku is lowkey lame when it comes to serving static files so currently user uploaded images are not displaying until I set up a custom file storage backend w a CDN.</description>
+    </item>
+    
     <item>
       <title>Routers, Protocols, Crawlers Oh My!</title>
       <link>https://leoleader.github.io/menagerie/projects/project-6/</link>
@@ -18,21 +38,14 @@ The first project we will be looking at is a simplified virtual BGP router. The 
     </item>
     
     <item>
-      <title>Sherry&#39;s Quizzes</title>
-      <link>https://leoleader.github.io/menagerie/projects/project-4/</link>
-      <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
+      <title>McCann&#39;s URL Shortener</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-2/</link>
+      <pubDate>Sat, 01 Apr 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://leoleader.github.io/menagerie/projects/project-4/</guid>
-      <description>This is a web app, built with Python and the Django framework, using HTML/CSS and Bootstrap for the front end. My friends and I love taking quizzes and asking each other questions to either get to know each other better or challenge each other&amp;rsquo;s knowledge of various topics, so I decided to make a web app so we would a place to make whatever quizzes we wanted and send them to each other.</description>
-    </item>
-    
-    <item>
-      <title>Super Smash Bros. Ultimate Tournament Simulator</title>
-      <link>https://leoleader.github.io/menagerie/projects/project-1/</link>
-      <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
-      
-      <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
-      <description>My latest project that I started developing over last Winter Break is an app that uses a database of tournamnet results for Smash Ultimate pro players to simulate games between them. Using a combination, of player head-to-head history, player winrate, how highly ranked the characte they play is in the meta, character matchup charts, the program tries to predict who would win between two players. So using this algorithm, users of the app will be able to make tournament brackets as big as top 16s with professional players and the program will simulate the bracket.</description>
+      <guid>https://leoleader.github.io/menagerie/projects/project-2/</guid>
+      <description>McCann&amp;rsquo;s URL Shotener is pretty self-explanatory, Typescript React web app that takes a given long url and shortens it for the user. I built this in a couple days to get experience working with Typesript, React, Express, and testing with Cypress and Jest. I used Chakra UI to use custom fonts, colors, images and other UI stylings.
+Locally home page looks like this: 
+You can check out the repo at https://github.</description>
     </item>
     
     <item>
@@ -43,16 +56,6 @@ The first project we will be looking at is a simplified virtual BGP router. The 
       <guid>https://leoleader.github.io/menagerie/projects/project-5/</guid>
       <description>So far in my journey with CS at Northeastern, I have completed a few different projects, a couple being interesting enough that I would like to highlight them here and briefly discuss them.
 The first project I will be talking about is the Marble Solitaire project. For those that don&amp;rsquo;t know, marble solitaire is a simple board game where you try to hop marbles over each other to eliminate them, the goal is to be left with one marble at the end.</description>
-    </item>
-    
-    <item>
-      <title>Music - Longing to Belong Cover</title>
-      <link>https://leoleader.github.io/menagerie/projects/project-2/</link>
-      <pubDate>Sun, 22 May 2022 11:00:59 -0400</pubDate>
-      
-      <guid>https://leoleader.github.io/menagerie/projects/project-2/</guid>
-      <description>This is where I will put my really cool three instrument cover of a beautiful anime song ONCE I FINALLY finish it :)
-  This is the original song, a beautiful, melancholic piece consisting of a violin and a piano.</description>
     </item>
     
     <item>
