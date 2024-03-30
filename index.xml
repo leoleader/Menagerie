@@ -6,7 +6,30 @@
     <description>Recent content on menagerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Nov 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 10:58:08 -0400</lastBuildDate><atom:link href="https://leoleader.github.io/menagerie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argos Development Log</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-1/</link>
+      <pubDate>Thu, 28 Mar 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
+      <description>GitHub Repo Check out NER! 3/29 - Argos Dev Update Argos is one part of a much greater Odyssey of data, comprising of many different programs and technologies, which is laid out in detail in the flow chart below.
+Here&amp;rsquo;s a short set of descriptions of all the main technologies used in the Odyssey.
+Here&amp;rsquo;s a breakdown of Argos.
+Argos is now both an IOS app and Web App! Here&amp;rsquo;s a look at a test video I made of some of the functionality for the IOS app.</description>
+    </item>
+    
+    <item>
+      <title>Bleached by Video Days</title>
+      <link>https://leoleader.github.io/menagerie/projects/project-8/</link>
+      <pubDate>Thu, 21 Mar 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://leoleader.github.io/menagerie/projects/project-8/</guid>
+      <description>This is a piano cover of Bleached by Video Days I made, the first music video I&amp;rsquo;ve ever made.
+This song reminds me of the feeling of watching old home videos, so I edited together a compilation of some of my own home videos and think it came together really nicely.
+  </description>
+    </item>
+    
     <item>
       <title>BlockBot</title>
       <link>https://leoleader.github.io/menagerie/projects/project-7/</link>
@@ -15,17 +38,6 @@
       <guid>https://leoleader.github.io/menagerie/projects/project-7/</guid>
       <description>Check out the Repo! Have you ever dreamed of becoming a Tetris Master? Well now you can live that dream with BlockBot!
 BlockBot is a Tetris AI that is able to continuously analyze the state of the game to make optimal decisions and play the game faster than a human! Ever since I was a kid I have always been fascinated by AI in games, specifically the level 9 CPUs in the Smash Brother series since they were consistently able to beat me, and have always wanted to develop AI of my own.</description>
-    </item>
-    
-    <item>
-      <title>Argos</title>
-      <link>https://leoleader.github.io/menagerie/projects/project-1/</link>
-      <pubDate>Sun, 01 Oct 2023 10:58:08 -0400</pubDate>
-      
-      <guid>https://leoleader.github.io/menagerie/projects/project-1/</guid>
-      <description>GitHub Repo Check out NER! 12/10 - Argos Dev Update A few months later and the MVP for Argos is completed! Our team (which at this point is pretty much just Peyton, Wasif, and myself) has a few adjustments and tweaks here and there left but overall the MVP is pretty much done, which is super exciting.
-Personally I have contributed 1000+ lines of code and developed:
-- Rest API Calls and CRUD operations - Routes and Controllers for API Calls - System to continuously parse received server messages from car and populate the database with the data - Historical and More Data buttons - Battery  Pictured above is a look at the data graph for a sample run, currently displaying data for the Pack Temperature.</description>
     </item>
     
     <item>
